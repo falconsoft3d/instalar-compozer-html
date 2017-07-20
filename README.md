@@ -1,5 +1,6 @@
-# instalar-compozer-html
+# instalar Compozer
 Editor html CompoZer para linux
+Link: http://kompozer.net/
 
 ```
 git clone https://github.com/falconsoft3d/instalar-compozer-htm
